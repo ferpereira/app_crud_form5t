@@ -6,6 +6,14 @@ export const styles = StyleSheet.create({
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
+    },
+    list: {
+        flex: 1,
+        width: '100%'
+    },
+    listContent:{
+        padding:24,
+        paddingBottom: 150
     }
 
 }
